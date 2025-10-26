@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106269880093",
+    "project_id": "eventpix-2c431",
+    "storage_bucket": "eventpix-2c431.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106269880093:android:59710474e181362a1cbbf4",
+        "android_client_info": {
+          "package_name": "com.example.eventpix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFeypX-YHO01ZoGw6ra86zH43uaLKeUCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
